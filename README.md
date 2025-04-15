@@ -12,7 +12,7 @@
 ## 🌟 About Me
 
 - 🎓 MCA @ Chandigarh University Online  
-- 🎯 Former BCA Topper @ Kolhan University – 83.17%  
+- 🎯 BCA @ GIIT Professional College @ Kolhan University – 83.17%  
 - 📊 Data Visualization | Analytics | Dashboard Design  
 - 📍 From Jamshedpur, India 🇮🇳  
 - 🌱 Currently open for full-time Data roles
