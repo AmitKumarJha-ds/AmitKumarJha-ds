@@ -1,10 +1,28 @@
-# Hi 👋, I'm Amit Kumar Jha
-### Data Analyst | Python Developer | Power BI Specialist | Excel & SQL Enthusiast
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hover Effect</title>
+    <style>
+        /* Add hover effect to scale icons */
+        .icon-hover {
+            transition: transform 0.2s ease-in-out;
+        }
+
+        .icon-hover:hover {
+            transform: scale(1.2);
+        }
+    </style>
+</head>
+<body>
+<h1 align="center">Hi 👋, I'm Amit Kumar Jha</h1>
+<h3 align="center">Data Analyst | Python Developer | Power BI Specialist | Excel & SQL Enthusiast</h3>
 
 <p align="center">
+  <!-- Increase width to avoid text clipping -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%7C+Data+Analytics;Let's+connect+and+create+data+magic+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 🌟 About Me
@@ -133,3 +151,5 @@
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarJha-ds&theme=holi-theme">
 </p>
+</body>
+</html>
