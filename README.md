@@ -1,28 +1,30 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+I'm+Amit+Kumar+Jha!+👋;Aspiring+Data+Analyst+%26+Tech+Enthusiast;Love+to+analyze,+visualize+%26+solve+problems)
 
+<!-- <h1 align="center">Hi 👋, I'm Amit</h1> -->
+
 ## 🧐 About
 
-<h3 align="center">A passionate Data Analyst who loves solving real-world business problems using data and powerful visual insights. 🚀
-</h3>
+<h3 align="center">A passionate Data Analyst. I love turning data into impactful insights and building dashboards that drive real decisions.</h3>
 
 <br>
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-### I am a Data Analyst Intern & MCA Student
-- 🎓 Pursuing MCA at Chandigarh University (2025)
-- 🎓 BCA Graduate from GIIT, Jamshedpur (2023, 83.17%)
-- 📊 Interned at TCS (Forage), PwC Switzerland, Main Flow Services
-- 🌱 Currently diving deeper into Power BI, Python (EDA, Clustering), and SQL
-- 📬 Reach me at: [amitkumarjhads@gmail.com](mailto:amitkumarjhads@gmail.com)
-- ⚡ Fun fact: I love transforming raw data into meaningful visuals 😄
+### I am an Aspiring Data Analyst
+- 🎓 MCA Student at Chandigarh University | BCA (83.17%) from GIIT, Jamshedpur
+- 🌱 Currently enhancing Power BI, Python, and SQL skills
+- 👯 Looking to collaborate on Data Projects & Dashboards
+- 🥅 2025 Goals: Master advanced analytics, contribute to open-source data tools
+- 💬 Ask me anything about data visualization and reporting
+- 📬 How to reach me: [amitkumarjhads@gmail.com](mailto:amitkumarjhads@gmail.com)
+- ⚡ Fun fact: I enjoy cleaning messy data — it’s oddly satisfying 😄
 
 </br>
 
 <h3 align="left">▶ Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/amitkumarjha7777" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://github.com/AmitKumarJha-ds" target="_blank"><img src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amitkumarjha7777" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AmitKumarJha-ds" target="_blank"><img src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 </br>
 
@@ -39,7 +41,7 @@
   </kbd>
 
   <kbd>
-    <kbd>Libraries</kbd>
+    <kbd>Libraries & Frameworks</kbd>
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
@@ -47,7 +49,7 @@
   </kbd>
 
   <kbd>
-    <kbd>Tools</kbd>
+    <kbd>Tools & Platforms</kbd>
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
@@ -67,13 +69,9 @@
 
 <h3 align="left">▶ Stats:</h3>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/AmitKumarJha-ds/AmitKumarJha-ds?style=for-the-badge"/> 
-<img src="https://badges.pufler.dev/repos/AmitKumarJha-ds/?style=for-the-badge"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarJha-ds&layout=compact&theme=github_dark&langs_count=10">
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=AmitKumarJha-ds&count_private=true&show_icons=true&theme=github_dark">  
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarJha-ds&theme=holi-theme">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarJha-ds&layout=compact&theme=github_dark&langs_count=10" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumarJha-ds&count_private=true&show_icons=true&theme=github_dark" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarJha-ds&theme=holi-theme" />
 </p>
