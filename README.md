@@ -10,7 +10,7 @@
 
 
 ## 🌟 About Me
-br>
+<br>
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxtY2JiZ213aXlvcjhhYjl5bDFzcHhpNmEwdjc3a2hobzRnMmJreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)" />
 - 🎓 MCA @ Chandigarh University Online  
