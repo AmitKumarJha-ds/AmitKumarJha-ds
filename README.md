@@ -15,7 +15,7 @@
 - 🌱 Currently enhancing Power BI, Python, and SQL skills  
 - 👯 Looking to collaborate on Data Projects & Dashboards  
 - 🍅 2025 Goals: Master advanced analytics, contribute to open-source data tools  
-- 💬 Ask me anything about data visualization and reporting  
+- 💬 Ask me about anything, I am happy to help 😄 
 - 📬 Reach me at: [amitkumarjhads@gmail.com](mailto:amitkumarjhads@gmail.com)  
 - ⚡ Fun fact: I enjoy cleaning messy data — it’s oddly satisfying 😄
 
@@ -23,52 +23,35 @@
 
 <h3 align="left">▶ Languages and Tools:</h3>
 <p align="center">
-  <kbd>Languages</kbd><br>
-    <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-    <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-    <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-    <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-    <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <br>
-  <kbd>Libraries</kbd><br>
-    <img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-    <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-    <img title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
-    <img title="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" />
-  <br>
-  <kbd>Tools</kbd><br>
-    <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-    <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-    <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-    <img title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-    <img title="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" />
-  <br>
-  <kbd>BI Tools</kbd><br>
-    <img title="Excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" />
-    <img title="Power BI" src="https://img.icons8.com/color/48/power-bi.png" width="40" />
-    <img title="PowerPoint" src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40" />
-</p>
-
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:amitkumarjhads@gmail.com" title="Email">
-    <img title="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/amitkumarjha7777/" title="LinkedIn">
-    <img title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>
-  <a href="https://github.com/AmitKumarJha-ds" title="GitHub">
-    <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  </a>
-   <a href="https://wa.me/918405801203" title="WhatsApp">
-    <img title="WhatsApp" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" />
-  </a>
-  <a href="https://instagram.com/mit_kumarrr" title="Instagram">
-    <img title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
-  </a>
+  <kbd>
+    <kbd>Languages</kbd><br>
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  </kbd>
+  <kbd>
+    <kbd>Libraries</kbd><br>
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd><br>
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" />
+  </kbd>
+  <kbd>
+    <kbd>BI Tools</kbd><br>
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Excel" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Power BI" src="https://img.icons8.com/color/48/power-bi.png" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="PowerPoint" src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40" />
+  </kbd>
 </p>
 
 ---
@@ -121,18 +104,32 @@
 
 <p align="center">
   <a href="mailto:amitkumarjhads@gmail.com" title="Email">
-    <img title="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/amitkumarjha7777/" title="LinkedIn">
-    <img title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="https://github.com/AmitKumarJha-ds" title="GitHub">
-    <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
-   <a href="https://wa.me/918405801203" title="WhatsApp">
-    <img title="WhatsApp" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" />
+  <a href="https://wa.me/918405801203" title="WhatsApp">
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="WhatsApp" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" />
   </a>
   <a href="https://instagram.com/mit_kumarrr" title="Instagram">
-    <img title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
+    <img style="transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
   </a>
+</p>
+
+
+<h3 align="left">▶ Stats:</h3>
+<p align="center">
+<img src="https://badges.pufler.dev/visits/AmitKumarJha-ds/AmitKumarJha-ds?style=for-the-badge"/> 
+<img src="https://badges.pufler.dev/repos/AmitKumarJha-ds/?style=for-the-badge"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarJha-ds&layout=compact&theme=github_dark&langs_count=10">
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=AmitKumarJha-ds&count_private=true&show_icons=true&theme=github_dark">  
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarJha-ds&theme=holi-theme">
 </p>
