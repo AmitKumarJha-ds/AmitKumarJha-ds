@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hover Effect</title>
-    <style>
-        /* Add hover effect to scale icons */
-        .icon-hover {
-            transition: transform 0.2s ease-in-out;
-        }
 
-        .icon-hover:hover {
-            transform: scale(1.2);
-        }
-    </style>
-</head>
-<body>
 <h1 align="center">Hi 👋, I'm Amit Kumar Jha</h1>
 <h3 align="center">Data Analyst | Python Developer | Power BI Specialist | Excel & SQL Enthusiast</h3>
 
@@ -151,5 +134,4 @@
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarJha-ds&theme=holi-theme">
 </p>
-</body>
-</html>
+
